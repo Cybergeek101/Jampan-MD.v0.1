@@ -8,7 +8,8 @@ Whatsapp robot
 
 <p align="center">
   <b>WhatsApp MD Bot powered by Baileys - Edition ya Jampan</b><br>
- iBot haijakamilika.</i>
+𝗕𝗢𝗧 𝗛𝗔𝗜𝗝𝗔𝗞𝗔𝗠𝗜𝗟𝗜𝗞𝗔 𝗦𝗜𝗡𝗔 𝗦𝗖𝗟𝗜𝗣𝗧
+.</i>
 </p>
 
 ---
