@@ -8,7 +8,7 @@ Whatsapp robot
 
 <p align="center">
   <b>WhatsApp MD Bot powered by Baileys - Edition ya Jampan</b><br>
-  <i>Bot ya kisasa yenye nguvu, kasi na mionekano ya anime.</i>
+ iBot haijakamilika.</i>
 </p>
 
 ---
